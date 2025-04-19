@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Swapnadeep Dhar
 
 Welcome to my GitHub profile! I'm a passionate developer, constantly learning and building exciting projects. I'm especially interested in full-stack web development, app clones, smart city solutions, and creative digital tools.
 
