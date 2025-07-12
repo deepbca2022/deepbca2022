@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer, constantly learning an
 
 ## 🚀 About Me
 
-- 💼 I'm currently working on: FinanceGroww (Online platform for money management and investment tips)
+- 💼 I'm currently working on: E-Commerce Platform and Employee Management System
 - 🌱 Learning: Advanced React, Node.js, and Cloud Deployment  
 - 🧠 Interested in:Tech, FinTech, and AI-powered apps  
 - 💬 Ask me about: React, Node.js, Oracle, and full-stack project building  
@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm a passionate developer, constantly learning an
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML, CSS, Tailwind
+- **Frontend**: React.js, HTML, CSS, Tailwind, Vite
 - **Backend**: Node.js, 
 - **Database**: Oracle  
 - **Tools**: Git, GitHub, VS Code  
-- **Other**: Figma
+- **Other**: Figma, MS Office
 
 ## 💻 Major Projects
 
-- **🚕FinanceGroww** – Online platform for money management and investment tips 
+- **🚕Portfolio** – Personal Portfolio . 
 - **🛍️ QuizSphere** – Online quiz platform for students. 
 - **🚑 Emergency Ambulance Booking** – Quick-response medical transport platform  
